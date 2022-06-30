@@ -29,7 +29,7 @@ try:
         authToken = savedAuthToken if savedAuthToken and not args.token else args.token
         idOrToken = authToken if authToken else print("# No one Qr was readed, Lets Scan New QR.")
         try:
-            dollypk = LINE("email@gmail.com","pass")  #email & pw
+            dollypk = LINE("allainyunan@gmail.com","vynthschka130699")  #email & pw
             tokenFile.close()
             tokenFile = tokenPath.open('w+')
             tokenFile.write(dollypk.authToken)
@@ -51,7 +51,7 @@ try:
             authToken = savedAuthToken if savedAuthToken and not args.token else args.token
             idOrToken = authToken if authToken else print("# No one Qr was readed, Lets Scan New QR.")
             try:
-                dollypk = LINE("email@gmail.com","pass")    #email & pw
+                dollypk = LINE("allainyunan@gmail.com","vynthschka130699")    #email & pw
                 tokenFile.close()
                 tokenFile = tokenPath.open('w+')
                 tokenFile.write(dollypk.authToken)
