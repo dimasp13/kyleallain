@@ -1,0 +1,16 @@
+
+
+646 : TalkException(code=3, reason='invalid mid', parameterMap=None)
+463 : TalkException(code=3, reason='invalid mid', parameterMap=None)
+363 : TalkException(code=3, reason='invalid mid', parameterMap=None)
+119 : TalkException(code=3, reason='invalid mid', parameterMap=None)
+112 : TalkException(code=35, reason='request blocked', parameterMap=None)
+393 : TalkException(code=35, reason='request blocked', parameterMap=None)
+679 : list index out of range
+236 : TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+509 : TalkException(code=8, reason='REVOKE', parameterMap=None)
+433 : TalkException(code=8, reason='REVOKE', parameterMap=None)
+496 : TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+914 : TalkException(code=8, reason='REVOKE', parameterMap=None)
+319 : TalkException(code=8, reason='REVOKE', parameterMap=None)
