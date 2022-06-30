@@ -269,11 +269,11 @@ wait = {
             "pictureStatus": "",
             "statusMessage": ""
             },
-    "mention":"sider mulu bangsat",
-    "Respontag":"jangan tag gw anjing",
-    "welcome":"Kam anak anjing",
-    "comment":"ᴀᴜᴛᴏʟɪᴋᴇ ʙʏ: \n\n\n\n︻╦̵̵͇̿̿̿̿╤─PANTEK ᵏⁱˡˡᵉʳ",
-    "message":"kenapa lu add bangsat\nJangan lupa chat admin\nline.me/ti/p/~nananaaaaa.",
+    "mention":"sider mulu ",
+    "Respontag":"lg pcrn sm eunseo",
+    "welcome":"Kam bing",
+    "comment":"ᴀᴜᴛᴏʟɪᴋᴇ ʙʏ: \n\n\n\n allain",
+    "message":"kenapa lu add.",
 }
 
 
