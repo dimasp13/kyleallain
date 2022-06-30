@@ -15,7 +15,7 @@ from Liff.ttypes import LiffChatContext, LiffContext, LiffSquareChatContext, Lif
                       **  MINI SELFBOT VERSION 2 ** 
 
                     BOT TYPE      -  MINI SELFBOT
-                    DEVELOPER     -  IMJUSTGOOD.COM/TEAM
+                    DEVELOPER     -  Allain/TEAM
                     SOURCE LIB    -  PYPI/LINEPY
                     MEDIA API     -  PYPI/JUSTGOOD
                     PUBLISHED     -  GITHUB.COM/GOODOP/MINI-SELFBOTV2
@@ -25,8 +25,8 @@ setting = json.loads(open('Data/settings.json','r').read())
 cctv = json.loads(open('Data/cctv.json','r').read())
 loger = Login()
 
-if login["email"] == "":
-   if login["token"] == "":
+if login["email"] == "allainyunan@gmail.com":
+   if login["token"] == "ua4b8d4ae8a127aeec03e655b3f4d7085":
       data = loger.logqr(cert=None) #You can put your Crt token here
       client = LINE(idOrAuthToken=data)
       login["token"] = data
