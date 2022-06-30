@@ -1,0 +1,8 @@
+  File "d2.py", line 3976, in runningProgram
+    ops = oepoll.singleTrace(count=50)
+  File "/root/self/HEADER/oepoll.py", line 49, in singleTrace
+    self.setRevision(self.client.poll.getLastOpRevision())
+  File "/root/self/DATA/TalkService.py", line 4824, in getLastOpRevision
+    return self.recv_getLastOpRevision()
+  File "/root/self/DATA/TalkService.py", line 4847, in recv_getLastOpRevision
+    raise result.e
